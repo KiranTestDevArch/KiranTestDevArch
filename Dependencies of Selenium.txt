@@ -1,0 +1,20 @@
+GRADLE+SELENIUM+TESTNG DEEPENDENCIES:
+
+// https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas
+implementation group: 'org.apache.poi', name: 'poi-ooxml-schemas', version: '4.0.1'
+
+
+// https://mvnrepository.com/artifact/org.testng/testng
+testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
+
+// https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+
+// https://mvnrepository.com/artifact/tech.grasshopper/extent-pdf-report
+implementation group: 'tech.grasshopper', name: 'extent-pdf-report', version: '1.6.0'
+
+// https://mvnrepository.com/artifact/org.webjars.npm/webdriver-manager
+implementation group: 'org.webjars.npm', name: 'webdriver-manager', version: '13.0.0-beta'
+
+
+
